@@ -3,6 +3,7 @@ hash unhash file
 this app can hash/unhash text files quickly for u
 
 supported types:
+
   md5{all}
   
   md4{all} 
@@ -39,11 +40,12 @@ supported types:
   
   RIPEMD-160
   
-  Text to above hash types 
+  Text to above hash types
+  
 ---------------------------------------------------------------------------------------------------------------------
-OPTIONS:
+OPTIONS: 
 
- +Modify Threads and Timeout
++Modify Threads and Timeout
  
  +Auto decode double hashes[X2H]
  
